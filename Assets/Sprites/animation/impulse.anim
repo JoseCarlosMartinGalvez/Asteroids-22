@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: impulse
+  m_Name: Impulse
   serializedVersion: 6
   m_Legacy: 0
   m_Compressed: 0
@@ -23,7 +23,7 @@ AnimationClip:
       value: {fileID: 21300000, guid: 0dc2bd3872de83a42bfb66d550d057d6, type: 3}
     - time: 0.16666667
       value: {fileID: 21300000, guid: 07395f2a50ef9474f9980c2b05f23157, type: 3}
-    - time: 0.35
+    - time: 0.33333334
       value: {fileID: 21300000, guid: 662e550627b18614a88c9ac2b785681d, type: 3}
     - time: 0.5
       value: {fileID: 21300000, guid: 726a88befc2363d43895bd7b329e9095, type: 3}
